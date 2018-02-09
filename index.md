@@ -11,7 +11,7 @@ Test Automation Engineer
 
 
 ## Summary
-I am interested in the test automation and the development of CI/CD processes in Software Engineering.
+I am interested in the test automation and the development of CI/CD processes in Software Engineering.  
 My goal is to reduce routine in testing and software development.
 
 
