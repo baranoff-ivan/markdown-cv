@@ -1,91 +1,62 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ivan Baranov's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ivan Baranov
+Test Automation Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+  <a href="baranoffia@gmail.com">baranoffia@gmail.com</a>
+</div> 
 
+## Summary
 
-## Currently
+I am interested in the test automation and the development of CI/CD processes in Software Engineering.
+My goal is to reduce routine in testing and software development.
 
-Standing on the shoulders of giants
+## Technical Skills
 
-### Specialized in
+Software Test Automation, Software Testing, Java, Python, Selenium,  SQL 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Professional Experience
 
+`11.2016 - now`&emsp;
+Test Automation Engineer, __Jet Infosystems__, Nizhny Novgorod
+* Write automated test scripts, develop and support test automation frameworks 
+* Backend test automation for ESB (open source stack on Java)
+* Frontend test automation (Selenium on Java and Python) for web applications
+* Involved in building of CI process for different applications using Jenkins
 
-### Research interests
+`09.2016 - 11.2016`&emsp;
+Test Automation Engineer, __Sberbank Technology__, Nizhny Novgorod
+* Write automared test scripts (Java + Selenium + Cucumber)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`07.2014 - 08.2016`&emsp;
+Test Engineer, __Jet Infosystems__, Nizhny Novgorod
+* Functional and integration testing of systems consisting of REST and SOAP services and message queues
+* Functional testing of UI based web applications
+* Write automated test scripts (Selenium on Java)
+* Involved in performance testing (HP LoadRunner)
 
+`07.2013 - 03.2014`&emsp;
+Junior Test Engineer, __OOO CRET__, Nizhny Novgorod
+* Functional testing of web application
+
+## Certificates
+* Oracle Certified Associate, Java SE 8 Programmer
+* ISTQB Certified Tester Foundation Level
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2006-2012`
+__Lobachevsky State University of Nizhny Novgorod__
+Master's degree in chemistry
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2015`
+__Lobachevsky State University of Nizhny Novgorod__
+Information Technology (Programming) professional retraining course
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Languages
+* Russian - native
+* English - pre-intermediate
